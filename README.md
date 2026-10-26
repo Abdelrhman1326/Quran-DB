@@ -133,4 +133,4 @@ Uthmani-capable font such as KFGQPC Uthmanic Hafs or Amiri Quran.
   https://tanzil.net/docs/text_license
 - Cross-check text: Quran.com API v4, used for verification only and not
   redistributed.
-- Script: add your own licence here (for example MIT).
+- Script: MIT license.
